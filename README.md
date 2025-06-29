@@ -34,5 +34,5 @@
 
 *Rounak Kumar Gupta*
 👨‍💻 B.Tech CSE | Passionate about Full Stack & AI
-📧 Email: [your.email@example.com](rounakgupta029@gmail.com)
+📧 Email: [rounakgupta029@gmail.com](rounakgupta029@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/rounak-kumar-b37a29257/)
